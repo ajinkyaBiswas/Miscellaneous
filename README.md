@@ -1,4 +1,4 @@
-# Random
+# Miscellaneous
 
 Folder Structure
 ------------------------------------------------------------
