@@ -23,16 +23,16 @@ print('all imported')
 #     winsound.Beep(freq, duration)
 #     i += 1
 
-search_word = 'citibank'
+search_word = 'xxxxxx'
 
 # comment/ uncomment this line depending requirements
 search_word_type = 'username'
 # search_word_type = 'hashtag'
 # hashtag='food'
-# browser = webdriver.Chrome(executable_path=r'C:/Users/biswa/JupyterNoteBooks/MARK_AI/chromedriver_win32/chromedriver.exe')  # '/path/to/chromedriver'
+# browser = webdriver.Chrome(executable_path=r'xxxxxxxxxxxxxxxx/chromedriver.exe')  # '/path/to/chromedriver'
 # browser.get('https://www.instagram.com/explore/tags/'+hashtag)
 
-browser = webdriver.Chrome(executable_path=r'C:/Users/biswa/JupyterNoteBooks/web_scrape/chrome/chromedriver.exe')  # '/path/to/chromedriver'
+browser = webdriver.Chrome(executable_path=r'xxxxxxxxxxxxxxxxxxxxx/chromedriver.exe')  # '/path/to/chromedriver'
 
 
 
@@ -94,7 +94,7 @@ while True:
         # while i < 3:
         #     winsound.Beep(freq, duration)
         #     i += 1
-        if break_found_count == 19:  # keep trying till 100 seconds..after that break...
+        if break_found_count == 19:  # keep trying till 100 seconds..after that break...this is because sometimes internet may get slow or a video is loading or something
             break
         break_found_count += 1
         time.sleep(SCROLL_PAUSE_TIME)
@@ -146,6 +146,8 @@ print('cell compiled >> post URLs have been saved in csv')
 #     winsound.Beep(freq, duration)
 #     i += 1
 
+
+# get all data 
 start_time = time.time()
 
 result = pd.DataFrame()
@@ -203,6 +205,8 @@ print(f'Time taken for scraping >> {(time.time() - start_time) / 60} minutes...'
 #     i += 1
 
 
+
+# download images
 start_time = time.time()
 
 result.index = range(len(result.index))
