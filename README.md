@@ -23,5 +23,7 @@ Folder Structure
 &nbsp;&nbsp;&nbsp;|-Document Data Extraction.pdf\
 &nbsp;&nbsp;&nbsp;|-Risk_Classification_Machine_Learning.pdf\
 &nbsp;&nbsp;&nbsp;|-Smart_Waste_Management_AWS_IoT.pdf\
-&nbsp;|--Tableau\
-&nbsp;|
+&nbsp;|--Python\
+&nbsp;&nbsp;&nbsp;|-TCP-Practice\
+&nbsp;&nbsp;&nbsp;|-Web Scraping\
+&nbsp;&nbsp;&nbsp;|-World Bank - REST API - MongoDB\
