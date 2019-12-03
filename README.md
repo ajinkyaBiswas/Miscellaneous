@@ -26,4 +26,5 @@ Folder Structure
 &nbsp;|--Python\
 &nbsp;&nbsp;&nbsp;|-TCP-Practice\
 &nbsp;&nbsp;&nbsp;|-Web Scraping\
-&nbsp;&nbsp;&nbsp;|-World Bank - REST API - MongoDB\
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;instagram_scrape.py\
+&nbsp;&nbsp;&nbsp;|-World Bank - REST API - MongoDB
