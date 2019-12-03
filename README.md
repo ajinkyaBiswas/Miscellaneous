@@ -1,5 +1,5 @@
 # Miscellaneous
-
+## Contains some code samples. Does not contain sensitive codes(codes with keys and more)
 Folder Structure
 ------------------------------------------------------------
 -Random\
