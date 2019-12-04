@@ -156,7 +156,7 @@ def extract(page, numOfPost, infinite_scroll=False, scrape_comment=False):
 
     # browser = webdriver.Chrome(executable_path="./chromedriver", chrome_options=option)
     browser = webdriver.Chrome(
-        executable_path=r'C:/Users/biswa/JupyterNoteBooks/MARK_AI/chromedriver_win32/chromedriver.exe')
+        executable_path=r'xxxxxxxxxxxxxxxxxxxxxxx/chromedriver.exe')
     browser.get("http://facebook.com")
     browser.maximize_window()
     browser.find_element_by_name("email").send_keys(email)
