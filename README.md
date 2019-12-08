@@ -3,8 +3,6 @@
 Folder Structure
 ------------------------------------------------------------
 -Random\
-&nbsp;|--AWS\
-\
 &nbsp;|--Machine Learning\
 &nbsp;&nbsp;&nbsp;|-Insurance Risk Classification\
 &nbsp;&nbsp;&nbsp;|-UNSW Datathon\
