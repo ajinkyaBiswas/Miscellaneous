@@ -17,7 +17,7 @@ Folder Structure
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Convolution Neural Networks (CNN).ipynb\
 &nbsp;|--Projects\
 &nbsp;&nbsp;&nbsp;|-01. Smart_Bin.jpg\
-&nbsp;&nbsp;&nbsp;|-02. AWS_AI_Pedometer.jpg\
+&nbsp;&nbsp;&nbsp;|-02. Smart_Step_Counter.jpg\
 &nbsp;&nbsp;&nbsp;|-03. Doc_Data_Ext.jpg\
 &nbsp;|--Python\
 &nbsp;&nbsp;&nbsp;|-TCP-Practice\
